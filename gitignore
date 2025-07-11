@@ -1,0 +1,13 @@
+
+# Ignore Word documents
+*.doc
+*.docx
+
+# Ignore PDFs
+*.pdf
+
+
+# Ignore temporary and system files
+*.tmp
+*.DS_Store
+Thumbs.db
